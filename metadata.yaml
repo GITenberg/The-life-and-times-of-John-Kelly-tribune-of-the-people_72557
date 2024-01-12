@@ -1,0 +1,29 @@
+_repo: The-life-and-times-of-John-Kelly-tribune-of-the-people_72557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McLaughlin, James Fairfax
+    birthdate: 1839
+    deathdate: 1903
+    gutenberg_agent_id: '9818'
+    url: http://www.gutenberg.org/2009/agents/9818
+description: ''
+gutenberg_issued: '2023-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72557'
+language: en
+pgterms:marc905: 20061014165444mclaughlin
+pgterms:marc906: '1885'
+pgterms:marc907: US
+production_note: ellinora, Bryan Ness, Bob Taylor, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited States :$bThe American News Company, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The life and times of John Kelly, tribune of the people
+url: http://www.gutenberg.org/ebooks/72557
