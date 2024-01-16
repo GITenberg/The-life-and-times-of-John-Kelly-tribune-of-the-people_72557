@@ -1,5 +1,8 @@
 _repo: The-life-and-times-of-John-Kelly-tribune-of-the-people_72557
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72557-h/images/cover.jpg
 creator:
   author:
     agent_name: McLaughlin, James Fairfax
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9818'
     url: http://www.gutenberg.org/2009/agents/9818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72557#The-life-and-times-of-John-Kelly-tribune-of-the-people
 gutenberg_issued: '2023-12-31'
 gutenberg_type: Text
 identifiers:
